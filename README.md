@@ -5,9 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Wellcome+To+Me+Github;Don't+Forget+To+Be+Happy&center=true"></a>
     
 <h1 align="center"><img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">FluxXe Free Application And Game<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
-<h2 align="center">Minecraft Crack New Version</h2>
 
-<img width="70%" alt="WELLCOME TO ME GITHUB. FluxXe There Is Because To Pain" src="./images/logo.png" />
+<p align="center"><img width="70%" alt="WELLCOME TO ME GITHUB. FluxXe There Is Because To Pain" src="./images/logo.png" /></p>
+<h2 align="center">Minecraft Crack New Version</h2>
 
 # Downloads:
 > -<a href="https://www.mediafire.com/file/3jaqmtw5bfvzo3s"> Minecraft 1.19.31 Official </a>
