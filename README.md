@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/FluxXe1"><img width="50%" alt="WELLCOME TO ME GITHUB. FluxXe There Is Because To Pain" src="./luxxe.png" /></a></p>
+<p align="center"><a href="https://github.com/FluxXe1"><img width="50%" alt="WELLCOME TO ME GITHUB. FluxXe There Is Because To Pain" src="./images/1.png" /></a></p>
   
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
