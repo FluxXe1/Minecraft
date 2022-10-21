@@ -4,7 +4,7 @@
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Wellcome+To+Me+Github;Don't+Forget+To+Be+Happy&center=true"></a>
     
-<h1 align="center"><img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">FluxXe Application And Game<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
+<h1 align="center"><img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">FluxXe Free Application And Game<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
 <h2 align="center">Minecraft Crack New Version</h2>
 
 # Downloads:
