@@ -12,7 +12,7 @@
 
 
 
-# Downloads:
+# Download:
 > - <a href="https://www.mediafire.com/file/3jaqmtw5bfvzo3s"> Minecraft 1.19.31 Official </a>
 > 
 > - <a href="https://www.mediafire.com/file/rm4nx3354qq3cde"> Minecraft 1.19.50 Beta </a>
