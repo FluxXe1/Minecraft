@@ -9,16 +9,26 @@
 <p align="center"><img width="70%" alt="WELLCOME TO ME GITHUB. FluxXe There Is Because To Pain" src="./images/logo.png" /></p>
 <h2 align="center">Minecraft Crack New Version</h2>
 
+
+
+
 # Downloads:
-> -<a href="https://www.mediafire.com/file/3jaqmtw5bfvzo3s"> Minecraft 1.19.31 Official </a>
+> - <a href="https://www.mediafire.com/file/3jaqmtw5bfvzo3s"> Minecraft 1.19.31 Official </a>
 > 
-> -<a href="https://www.mediafire.com/file/rm4nx3354qq3cde"> Minecraft 1.19.50 Beta </a>
+> - <a href="https://www.mediafire.com/file/rm4nx3354qq3cde"> Minecraft 1.19.50 Beta </a>
+>
 > 
+>
+> 
+
+
+
 
 # Contact:
 > [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/FluxXe1)
 > 
 > [![](https://img.shields.io/badge/Twitter-yellow?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/fluxxe3)
+
 
 # Donate:
 > Bitcoin: 
